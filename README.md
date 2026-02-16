@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 💻 I’m currently working on<br>Real-world software and data-driven problems as a CSE final-year student and intern at NRSC, where accuracy, scale, and responsibility actually matter.<br>🤝 I’m looking to collaborate on<br>Projects that turn ideas into reliable software—whether it’s backend logic, data handling, or clean user-focused applications.<br>📈 I’m looking for help with<br>Understanding how production-level systems are built and learning best practices used in large organizations.<br>📚 I’m currently learning<br>Data structures, problem solving, backend development, and how to write code that is maintainable, readable, and scalable.<br>💬 Ask me about<br>Internship experiences at a government research organization, transitioning from academic code to industry-ready code, or preparing for IT service-based companies.<br>⚡ Fun fact<br>Now I’m using the waiting time to sharpen my skills so I can add value from Day 1, not just join a company.
 
 
